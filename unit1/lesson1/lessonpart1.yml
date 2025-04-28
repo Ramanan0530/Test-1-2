@@ -21,16 +21,16 @@ content: |
 questionGroups:
   - questions:
       - id: "1"
-        type: choice
-        content: dssffds
+        type: multiple
+        content: dfssf
         options:
           - id: "1"
-            value: fdsdffds
-            explanation: fdsds
+            value: dsfsfd
+            explanation: dsfs
             isCorrect: true
           - id: "2"
-            value: fdsfs
-            explanation: dsfds
+            value: fdsdsf
+            explanation: dsfsf
           - id: "3"
-            value: fdsf
-            explanation: dsfdsf
+            value: fdsdsfds
+            explanation: dssfs

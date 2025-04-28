@@ -21,46 +21,6 @@ content: |
 questionGroups:
   - questions:
       - id: "1"
-        type: choice
-        content: sada
-        options:
-          - id: "1"
-            value: sadaas
-            explanation: sadsa
-          - id: "2"
-            value: dsadsadsadsa
-          - id: "3"
-            value: dsadasd
-            explanation: dsada
-          - id: "4"
-            value: sadsa
-            explanation: dsasa
-            isCorrect: true
-  - questions:
-      - id: "1"
-        type: multiple
-        content: sadda
-        options:
-          - id: "1"
-            value: sadad
-            explanation: sdad
-            isCorrect: true
-          - id: "2"
-            value: sadsa
-            explanation: ssad
-          - id: "3"
-            value: dsadsadsda
-            explanation: sadsad
-  - questions:
-      - id: "1"
-        type: string
-        content: dsada
-        options:
-          - id: "1"
-            value: sasadsadsa
-            isCorrect: true
-  - questions:
-      - id: "1"
         type: mapping
         content: dsdasda
         options:

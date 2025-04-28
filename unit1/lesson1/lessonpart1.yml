@@ -18,3 +18,19 @@ content: |
   ### Ready to dive in?
 
   If you already know your way around, remove this “Let’s get started!” tutorial lesson using the trash can icon in the Table of Contents. We’ve also created a placeholder lesson with the title you provided—just click to begin customizing.
+questionGroups:
+  - questions:
+      - id: "1"
+        type: choice
+        content: dssffds
+        options:
+          - id: "1"
+            value: fdsdffds
+            explanation: fdsds
+            isCorrect: true
+          - id: "2"
+            value: fdsfs
+            explanation: dsfds
+          - id: "3"
+            value: fdsf
+            explanation: dsfdsf

@@ -59,3 +59,15 @@ questionGroups:
           - id: "1"
             value: sasadsadsa
             isCorrect: true
+  - questions:
+      - id: "1"
+        type: mapping
+        content: dsdasda
+        options:
+          - id: "1"
+            value: Option 0sdsadda
+          - id: "2"
+            value: Option 1dsadadsa
+            isCorrect: true
+          - id: "3"
+            value: Option 2dsasa
